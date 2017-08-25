@@ -1,4 +1,10 @@
-# titanic is avaliable in your workspace
+# My code to run this outside of Datacamp environment
+library(ggplot2)
+# Where is the correct data set? This isn't it.
+#   library(titanic)
+#   titanic <- data.frame(Titanic)
+# Probably needs titanic_clean.csv from prior exercise, with column renames
+
 # 1 - Check the structure of titanic
 str(titanic)
 
