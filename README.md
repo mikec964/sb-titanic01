@@ -1,6 +1,8 @@
 # Springboard course
 Mike Combs
 
+The [HTML version](http://htmlpreview.github.io/?https://github.com/mikec964/sb-titanic01/blob/master/README.html) of this Markdown file renders embedded LaTeX correctly.
+
 ## 4. Exploratory Data Analysis
 Exploratory Data Analysis (EDA) is an approach for summarizing and visualizing the important characteristics and statistical properties of a data set. Before getting into any formal methods, it helps one form an intuition about the data. Lets start applying the different types of statistical analyses we encountered in the previous section to real data sets.
 
