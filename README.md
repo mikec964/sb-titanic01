@@ -9,3 +9,13 @@ R code from the Titanic exercise in the ggplot2 tutorial: [titanic.R](titanic.R)
 
 ### 4.4 CHIS exercise
 R code from the CHIS exercise in the ggplot2 tutorial: [CHIS.R](CHIS.R)
+
+### 5.1 Probability
+General multiplication rule:
+\begin{align}
+  P(A \ and \ B) &= P(A) • P(B \mid A) \\
+  P(A \ and \ B) &= P(B) • P(A \mid B) \\
+  P(A \mid B) • P(B) &= P(B \mid A) • P(A) \\
+  P(A \mid B) &= \frac{P(A \ and \ B)}
+                      {P(B)}
+\end{align}
